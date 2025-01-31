@@ -19,7 +19,7 @@ const Home = () => {
                     desgining software.
                 Currently, I love to work on web application using
                 technologies like
-                React, Tailwind, Next JS and Postman
+                React, Tailwind, Next JS, Laravel and Postman
                 </p>
                 <div>
                     <Link to='portfolio' smooth duration={500}  className=' group text-white w-fit px-6 py-3 my-2

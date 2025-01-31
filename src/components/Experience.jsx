@@ -52,7 +52,7 @@ function Experience() {
       id:7,
       src:postman,
       title:'PostMan',
-      style:'shadow-pink-400'
+      style:'shadow-orange-500'
     },
     {
       id:8,
@@ -64,7 +64,7 @@ function Experience() {
       id:9,
       src:laravel,
       title:'Laravel',
-      style:'shadow-orange-400'
+      style:'shadow-orange-600'
     },
 
   ]
